@@ -19,4 +19,8 @@ I'm making you use the command line for this, as you will end up needing to use 
 ~~or, you can click "Run". however, i recommend against this, because you're not going to learn anything, and that script is a part of **my portfolio**, not yours~~
 
 # LICENSE
-This code is licensed under the MIT license. You don't really need to care about it right now (licenses, I believe, might be covered in an upper year *ethics* course), but it basically says you can use this code as you want, for private or public purposes. Just don't blame me if things don't work. If you're interested about the legalities right now though, see [LICENSE.md](#LICENSE.md).
+You don't really need to care about it right now (licenses, I believe, might be covered in an upper year *ethics* course), but most code is licensed under some permissive open source license, or something. I chose to use MIT for code, and CC-BY-SA 4.0 for writing.
+
+All code in this repository is licensed under the MIT license. It basically says you can use this code as you want, for private or public purposes, as long as you keep the license with the code. Just don't blame me if things don't work. If you're interested about the legalities, see [LICENSE-MIT](#LICENSE-MIT).
+
+All writing in this repository is licensed under the Creative Commons Attribution-ShareAlike 4.0 license. Like the MIT license, it also says you can use the writing as you want, as long as you credit me and share the writing under the same license. If you're interested in this, see [LICENSE-CC-BY-SA-4.0](#LICENSE-CC-BY-SA-4.0).
